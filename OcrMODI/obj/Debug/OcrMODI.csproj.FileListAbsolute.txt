@@ -1,0 +1,11 @@
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\bin\Debug\OcrMODI.exe.config
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\bin\Debug\OcrMODI.exe
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\bin\Debug\OcrMODI.pdb
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.csprojResolveAssemblyReference.cache
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.Form1.resources
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.Properties.Resources.resources
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.csproj.GenerateResource.Cache
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.exe
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.pdb
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\Interop.MODI.dll
+c:\users\c111761\documents\visual studio 2015\Projects\OcrMODI\OcrMODI\obj\Debug\OcrMODI.csproj.ResolveComReference.cache
